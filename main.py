@@ -11,9 +11,9 @@ API = "https://apis.xditya.me/lyrics?song="
 
 Ek = Client(
     "Lyrics-Search-Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["6811137225:AAHdVLo9MdfSr7e1uAtXqD_mWR5u-lZMZSQ"],
+    api_id = int(os.environ["22578423"]),
+    api_hash = os.environ["e9fce103e050d855fd8e11e21ff73856"]
 )
 
 
